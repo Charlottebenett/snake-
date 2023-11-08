@@ -4,9 +4,8 @@ snake game
 
 A classic Snake game implemented in Python using the Pygame library.
 
-![Gameplay](gameplay.png)
 
-## Table of Contents
+<!-- ## Table of Contents
 
 - [Features](#features)
 - [Requirements](#requirements)
@@ -14,11 +13,11 @@ A classic Snake game implemented in Python using the Pygame library.
 - [Controls](#controls)
 - [Screenshots](#screenshots)
 - [License](#license)
-
+ -->
 ## Features
 
 - Simple and fun Snake game.
-- Eat apples to grow your snake and increase your score.
+- Eat apples,  [le fruit défendu], to grow your snake and increase your score.
 - Avoid colliding with the game boundaries or yourself.
 
 ## Requirements
